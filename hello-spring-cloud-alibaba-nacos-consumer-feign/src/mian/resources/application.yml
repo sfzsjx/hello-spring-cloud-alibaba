@@ -1,0 +1,27 @@
+spring:
+  application:
+    name: nacos-consumer-feign
+  cloud:
+    nacos:
+      discovery:
+        server-addr: master:8848
+    sentinel:
+      transport:
+        port: 8720
+        dashboard: master:8081
+
+server:
+  port: 9092
+
+feign:
+  sentinel:
+    enabled: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+
+

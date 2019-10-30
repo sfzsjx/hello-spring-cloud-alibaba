@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: nacos-consumer
+  cloud:
+    nacos:
+      discovery:
+        server-addr: master:8848
+
+
+server:
+  port: 9091
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

@@ -1,0 +1,44 @@
+spring:
+  application:
+    name: spring-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: master:8848
+    sentinel:
+      transport:
+        port: 8721
+        dashboard: master:8081
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+        - id: NACOS-CONSUMER
+          uri: lb://nacos-consumer
+          predicates:
+            - Method=GET,POST
+        - id: NACOS-CONSUMER-FEIGN
+          uri: lb://nacos-consumer-feign
+          predicates:
+            - Method=GET,POST
+
+server:
+  port: 9000
+
+# 目前无效
+feign:
+  sentinel:
+    enabled: true
+
+# 目前无效
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+# 配置日志级别，方别调试
+logging:
+  level:
+    org.springframework.cloud.gateway: debug

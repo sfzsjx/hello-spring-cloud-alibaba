@@ -1,0 +1,728 @@
+INFO 2019-10-30 15:36:29:793 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-activemq-5.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:793 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-canal-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:794 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-dubbo-2.7.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:794 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-dubbo-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:795 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-elastic-job-2.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:795 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-elasticsearch-5.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:796 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-feign-default-http-9.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:797 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-grpc-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:797 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-h2-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:798 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-httpasyncclient-4.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:799 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-httpClient-4.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:800 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-hystrix-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:801 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-jdbc-commons-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:801 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-jedis-2.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:802 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-jetty-client-9.0-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:802 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-jetty-client-9.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:803 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-jetty-server-9.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:803 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-kafka-v1-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:804 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mongodb-2.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:805 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mongodb-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:805 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mysql-5.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:806 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mysql-6.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:806 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mysql-8.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:807 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mysql-commons-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:807 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-nutz-http-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:808 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:809 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-okhttp-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:809 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-postgresql-8.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:810 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-rabbitmq-5.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:810 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-redisson-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:811 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-resttemplate-4.3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:811 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-rocketmq-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:812 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-rocketmq-4.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:812 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:813 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:813 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:814 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-sharding-sphere-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:814 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-sharding-sphere-4.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:815 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-solrj-7.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:815 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-spring-async-annotation-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:816 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:816 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:817 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-spring-core-patch-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:817 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:818 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:819 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:820 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-springmvc-annotation-commons-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:820 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-spymemcached-2.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:821 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-struts2-2.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:821 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-undertow-2.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:821 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-vertx-core-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:822 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-webflux-5.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:823 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-xmemcached-2.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:823 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\dubbo-2.7.x-conflict-patch-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:824 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\dubbo-conflict-patch-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:824 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\motan-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:825 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\resteasy-server-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:825 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\sofa-rpc-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:826 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\spring-commons-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:826 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\tomcat-7.x-8.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:827 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\activations\apm-toolkit-log4j-1.x-activation-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:837 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\activations\apm-toolkit-log4j-2.x-activation-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:838 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\activations\apm-toolkit-logback-1.x-activation-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:838 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\activations\apm-toolkit-opentracing-activation-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:838 main AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\activations\apm-toolkit-trace-activation-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:29:848 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-activemq-5.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:848 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-canal-1.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:848 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-dubbo-2.7.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:848 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-dubbo-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:849 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-elastic-job-2.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:850 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-elasticsearch-5.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:850 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-feign-default-http-9.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:851 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-grpc-1.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:852 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-h2-1.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:852 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-httpasyncclient-4.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:852 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-httpClient-4.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:853 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-hystrix-1.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:853 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-jedis-2.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:853 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-jetty-client-9.0-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:854 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-jetty-client-9.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:854 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-jetty-server-9.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:855 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-kafka-v1-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:855 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mongodb-2.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:856 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mongodb-3.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:856 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mysql-5.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:856 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mysql-6.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:857 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mysql-8.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:857 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-nutz-http-1.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:858 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:858 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-okhttp-3.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:858 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-postgresql-8.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:859 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-rabbitmq-5.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:859 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-redisson-3.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:859 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-resttemplate-4.3.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:860 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-rocketmq-3.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:860 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-rocketmq-4.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:860 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:860 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:861 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:861 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-sharding-sphere-3.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:861 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-sharding-sphere-4.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:861 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-solrj-7.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:862 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-spring-async-annotation-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:862 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:862 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:862 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-spring-core-patch-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:863 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:863 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:863 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:864 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-springmvc-annotation-commons-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:864 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-spymemcached-2.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:864 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-struts2-2.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:865 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-undertow-2.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:865 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-vertx-core-3.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:865 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-webflux-5.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:865 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-xmemcached-2.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:866 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\dubbo-2.7.x-conflict-patch-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:866 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\dubbo-conflict-patch-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:866 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\motan-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:867 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\resteasy-server-3.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:867 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\sofa-rpc-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:867 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\tomcat-7.x-8.x-plugin-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:867 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\activations\apm-toolkit-log4j-1.x-activation-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:868 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\activations\apm-toolkit-log4j-2.x-activation-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:868 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\activations\apm-toolkit-logback-1.x-activation-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:868 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\activations\apm-toolkit-opentracing-activation-6.3.0.jar!/skywalking-plugin.def 
+INFO 2019-10-30 15:36:29:869 main PluginResourcesResolver :  find skywalking plugin define in jar:file:E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\activations\apm-toolkit-trace-activation-6.3.0.jar!/skywalking-plugin.def 
+DEBUG 2019-10-30 15:36:29:911 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.activemq.define.ActiveMQProducerInstrumentation. 
+DEBUG 2019-10-30 15:36:29:919 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.activemq.define.ActiveMQConsumerInstrumentation. 
+DEBUG 2019-10-30 15:36:29:921 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.canal.define.CanalInstrumentation. 
+DEBUG 2019-10-30 15:36:29:923 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.canal.define.ClusterNodeInstrumentation. 
+DEBUG 2019-10-30 15:36:29:925 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.asf.dubbo.DubboInstrumentation. 
+DEBUG 2019-10-30 15:36:29:928 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.dubbo.DubboInstrumentation. 
+DEBUG 2019-10-30 15:36:29:929 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.esjob.define.JobExecutorInstrumentation. 
+DEBUG 2019-10-30 15:36:29:932 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.TransportProxyClientInstrumentation. 
+DEBUG 2019-10-30 15:36:29:934 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.TransportActionNodeProxyInstrumentation. 
+DEBUG 2019-10-30 15:36:29:937 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.PlainListenableActionFutureInstrumentation. 
+DEBUG 2019-10-30 15:36:29:939 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.GenericActionInstrumentation. 
+DEBUG 2019-10-30 15:36:29:942 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.elasticsearch.v5.define.TransportClientNodesServiceInstrumentation. 
+DEBUG 2019-10-30 15:36:29:944 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.feign.http.v9.define.DefaultHttpClientInstrumentation. 
+DEBUG 2019-10-30 15:36:29:947 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.grpc.v1.define.AbstractStubInstrumentation. 
+DEBUG 2019-10-30 15:36:29:950 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.grpc.v1.define.AbstractServerImplBuilderInstrumentation. 
+DEBUG 2019-10-30 15:36:29:952 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.grpc.v1.define.ClientCallsInstrumentation. 
+DEBUG 2019-10-30 15:36:29:956 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.DriverInstrumentation. 
+DEBUG 2019-10-30 15:36:29:961 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.JdbcConnectionInstrumentation. 
+DEBUG 2019-10-30 15:36:29:967 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.PooledJdbcConnectionInstrumentation. 
+DEBUG 2019-10-30 15:36:29:969 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.h2.define.JdbcXAConnectionInstrumentation. 
+DEBUG 2019-10-30 15:36:29:972 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpasyncclient.v4.define.HttpAsyncClientInstrumentation. 
+DEBUG 2019-10-30 15:36:29:974 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpasyncclient.v4.define.SessionRequestInstrumentation. 
+DEBUG 2019-10-30 15:36:29:977 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpasyncclient.v4.define.HttpAsyncRequestExecutorInstrumentation. 
+DEBUG 2019-10-30 15:36:29:980 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.AbstractHttpClientInstrumentation. 
+DEBUG 2019-10-30 15:36:29:984 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.InternalHttpClientInstrumentation. 
+DEBUG 2019-10-30 15:36:29:986 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.MinimalHttpClientInstrumentation. 
+DEBUG 2019-10-30 15:36:29:989 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.httpClient.v4.define.DefaultRequestDirectorInstrumentation. 
+DEBUG 2019-10-30 15:36:29:991 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixCommandInstrumentation. 
+DEBUG 2019-10-30 15:36:29:994 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.hystrix.v1.define.HystrixPluginsInstrumentation. 
+DEBUG 2019-10-30 15:36:29:996 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jedis.v2.define.JedisClusterInstrumentation. 
+DEBUG 2019-10-30 15:36:30:000 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jedis.v2.define.JedisInstrumentation. 
+DEBUG 2019-10-30 15:36:30:003 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v90.client.define.HttpRequestInstrumentation. 
+DEBUG 2019-10-30 15:36:30:007 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v9.client.define.HttpRequestInstrumentation. 
+DEBUG 2019-10-30 15:36:30:010 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v9.server.define.JettyInstrumentation. 
+DEBUG 2019-10-30 15:36:30:012 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jetty.v9.server.define.DispatcherInstrumentation. 
+DEBUG 2019-10-30 15:36:30:015 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.CallbackInstrumentation. 
+DEBUG 2019-10-30 15:36:30:019 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.KafkaConsumerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:022 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.KafkaProducerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:025 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.kafka.v1.define.ProducerRecordInstrumentation. 
+DEBUG 2019-10-30 15:36:30:029 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.mongodb.v2.define.MongoDBCollectionInstrumentation. 
+DEBUG 2019-10-30 15:36:30:032 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.mongodb.v2.define.MongoDBCollectionImplInstrumentation. 
+DEBUG 2019-10-30 15:36:30:034 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.mongodb.v3.define.MongoDBInstrumentation. 
+DEBUG 2019-10-30 15:36:30:037 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v5.define.Mysql5xConnectionInstrumentation. 
+DEBUG 2019-10-30 15:36:30:045 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v5.define.Mysql50ConnectionInstrumentation. 
+DEBUG 2019-10-30 15:36:30:048 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v5.define.CallableInstrumentation. 
+DEBUG 2019-10-30 15:36:30:050 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v5.define.PreparedStatementInstrumentation. 
+DEBUG 2019-10-30 15:36:30:053 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v5.define.StatementInstrumentation. 
+DEBUG 2019-10-30 15:36:30:055 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v5.define.CacheIpsInstrumentation. 
+DEBUG 2019-10-30 15:36:30:058 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v5.define.ConnectionImplCreateInstrumentation. 
+DEBUG 2019-10-30 15:36:30:060 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v5.define.PreparedStatementIgnoredSetterInstrumentation. 
+DEBUG 2019-10-30 15:36:30:062 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v5.define.PreparedStatementSetterInstrumentation. 
+DEBUG 2019-10-30 15:36:30:064 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v5.define.PreparedStatementNullSetterInstrumentation. 
+DEBUG 2019-10-30 15:36:30:066 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v6.define.DriverInstrumentation. 
+DEBUG 2019-10-30 15:36:30:068 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v6.define.ConnectionInstrumentation. 
+DEBUG 2019-10-30 15:36:30:072 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v6.define.CallableInstrumentation. 
+DEBUG 2019-10-30 15:36:30:074 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v6.define.PreparedStatementInstrumentation. 
+DEBUG 2019-10-30 15:36:30:077 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v6.define.StatementInstrumentation. 
+DEBUG 2019-10-30 15:36:30:079 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v6.define.CacheIpsInstrumentation. 
+DEBUG 2019-10-30 15:36:30:081 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v6.define.ConnectionImplCreateInstrumentation. 
+DEBUG 2019-10-30 15:36:30:083 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v6.define.PreparedStatementSetterInstrumentation. 
+DEBUG 2019-10-30 15:36:30:085 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v6.define.PreparedStatementIgnoredSetterInstrumentation. 
+DEBUG 2019-10-30 15:36:30:087 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v6.define.PreparedStatementNullSetterInstrumentation. 
+DEBUG 2019-10-30 15:36:30:089 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v8.define.ConnectionImplCreateInstrumentation. 
+DEBUG 2019-10-30 15:36:30:093 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v8.define.ConnectionInstrumentation. 
+DEBUG 2019-10-30 15:36:30:095 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v8.define.CallableInstrumentation. 
+DEBUG 2019-10-30 15:36:30:098 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v8.define.PreparedStatementInstrumentation. 
+DEBUG 2019-10-30 15:36:30:100 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v8.define.StatementInstrumentation. 
+DEBUG 2019-10-30 15:36:30:102 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v8.define.PreparedStatementSetterInstrumentation. 
+DEBUG 2019-10-30 15:36:30:104 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v8.define.PreparedStatementNullSetterInstrumentation. 
+DEBUG 2019-10-30 15:36:30:106 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.mysql.v8.define.PreparedStatementIgnoredSetterInstrumentation. 
+DEBUG 2019-10-30 15:36:30:107 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.http.sync.define.NutzHttpGetSenderInstrumentation. 
+DEBUG 2019-10-30 15:36:30:111 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.http.sync.define.NutzHttpPostSenderInstrumentation. 
+DEBUG 2019-10-30 15:36:30:113 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.http.sync.define.NutzHttpFilePostSenderInstrumentation. 
+DEBUG 2019-10-30 15:36:30:115 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.nutz.mvc.define.ActionInstrumentation. 
+DEBUG 2019-10-30 15:36:30:120 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.okhttp.v3.define.RealCallInstrumentation. 
+DEBUG 2019-10-30 15:36:30:123 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.okhttp.v3.define.CallbackInstrumentation. 
+DEBUG 2019-10-30 15:36:30:125 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.okhttp.v3.define.AsyncCallInstrumentation. 
+DEBUG 2019-10-30 15:36:30:128 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.DriverInstrumentation. 
+DEBUG 2019-10-30 15:36:30:131 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.Jdbc3ConnectionInstrumentation. 
+DEBUG 2019-10-30 15:36:30:133 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.Jdbc4ConnectionInstrumentation. 
+DEBUG 2019-10-30 15:36:30:135 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.ConnectionInstrumentation. 
+DEBUG 2019-10-30 15:36:30:138 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.AbstractJdbc2StatementInstrumentation. 
+DEBUG 2019-10-30 15:36:30:140 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.PgCallableStatementInstrumentation. 
+DEBUG 2019-10-30 15:36:30:142 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.PgPreparedStatementInstrumentation. 
+DEBUG 2019-10-30 15:36:30:144 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.jdbc.postgresql.define.PgStatementInstrumentation. 
+DEBUG 2019-10-30 15:36:30:149 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rabbitmq.define.RabbitMQProducerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:152 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rabbitmq.define.RabbitMQConsumerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:155 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.redisson.v3.define.ConnectionManagerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:158 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.redisson.v3.define.RedisConnectionInstrumentation. 
+DEBUG 2019-10-30 15:36:30:162 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.redisson.v3.define.RedisClientInstrumentation. 
+DEBUG 2019-10-30 15:36:30:165 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.resttemplate.sync.define.RestTemplateInstrumentation. 
+DEBUG 2019-10-30 15:36:30:170 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.resttemplate.async.define.ResponseExtractorFutureInstrumentation. 
+DEBUG 2019-10-30 15:36:30:173 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.resttemplate.async.define.RestTemplateInstrumentation. 
+DEBUG 2019-10-30 15:36:30:176 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.ConsumeMessageConcurrentlyInstrumentation. 
+DEBUG 2019-10-30 15:36:30:179 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.ConsumeMessageOrderlyInstrumentation. 
+DEBUG 2019-10-30 15:36:30:183 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.MQClientAPIImplInstrumentation. 
+DEBUG 2019-10-30 15:36:30:187 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v3.define.SendCallbackInstrumentation. 
+DEBUG 2019-10-30 15:36:30:192 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.ConsumeMessageConcurrentlyInstrumentation. 
+DEBUG 2019-10-30 15:36:30:196 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.ConsumeMessageOrderlyInstrumentation. 
+DEBUG 2019-10-30 15:36:30:198 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.MQClientAPIImplInstrumentation. 
+DEBUG 2019-10-30 15:36:30:201 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.rocketMQ.v4.define.SendCallbackInstrumentation. 
+DEBUG 2019-10-30 15:36:30:203 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.define.ProducerOperationHandlerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:206 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.define.TransportClientHandlerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:210 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.v1.define.ProducerOperationHandlerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:215 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.servicecomb.v1.define.TransportClientHandlerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:217 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.sjdbc.define.ExecutorInstrumentation. 
+DEBUG 2019-10-30 15:36:30:220 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.shardingsphere.define.ProxyRootInvokeInstrumentation. 
+DEBUG 2019-10-30 15:36:30:223 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.shardingsphere.define.JDBCRootInvokeInstrumentation. 
+DEBUG 2019-10-30 15:36:30:227 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.shardingsphere.define.ParseInstrumentation. 
+DEBUG 2019-10-30 15:36:30:230 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.shardingsphere.define.ExecuteInstrumentation. 
+DEBUG 2019-10-30 15:36:30:233 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.shardingsphere.v4.define.ProxyRootInvokeInstrumentation. 
+DEBUG 2019-10-30 15:36:30:236 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.shardingsphere.v4.define.JDBCRootInvokeInstrumentation. 
+DEBUG 2019-10-30 15:36:30:240 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.shardingsphere.v4.define.ParseInstrumentation. 
+DEBUG 2019-10-30 15:36:30:242 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.shardingsphere.v4.define.ExecuteInstrumentation. 
+DEBUG 2019-10-30 15:36:30:246 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.solrj.define.SolrClientInstrumentation. 
+DEBUG 2019-10-30 15:36:30:249 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.async.define.AsyncExecutionInterceptorInstrumentation. 
+DEBUG 2019-10-30 15:36:30:253 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.cloud.netflix.feign.v11.define.NetflixFeignInstrumentation. 
+DEBUG 2019-10-30 15:36:30:256 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.concurrent.define.FailureCallbackInstrumentation. 
+DEBUG 2019-10-30 15:36:30:260 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.concurrent.define.SuccessCallbackInstrumentation. 
+DEBUG 2019-10-30 15:36:30:263 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.concurrent.define.ListenableFutureCallbackInstrumentation. 
+DEBUG 2019-10-30 15:36:30:266 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AopProxyFactoryInstrumentation. 
+DEBUG 2019-10-30 15:36:30:269 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AutowiredAnnotationProcessorInstrumentation. 
+DEBUG 2019-10-30 15:36:30:272 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AopExpressionMatchInstrumentation. 
+DEBUG 2019-10-30 15:36:30:275 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.AspectJExpressionPointCutInstrumentation. 
+DEBUG 2019-10-30 15:36:30:278 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.patch.define.BeanWrapperImplInstrumentation. 
+DEBUG 2019-10-30 15:36:30:283 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:288 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation. 
+DEBUG 2019-10-30 15:36:30:291 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:293 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInvokerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:296 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:303 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:305 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation. 
+DEBUG 2019-10-30 15:36:30:308 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:311 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v5.define.ControllerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:319 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v5.define.RestControllerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:322 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.v5.define.HandlerMethodInstrumentation. 
+DEBUG 2019-10-30 15:36:30:325 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.mvc.commons.define.AnnotationMethodHandlerAdapterInstrumentation. 
+DEBUG 2019-10-30 15:36:30:330 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spymemcached.v2.define.MemcachedInstrumentation. 
+DEBUG 2019-10-30 15:36:30:335 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.struts2.define.Struts2Instrumentation. 
+DEBUG 2019-10-30 15:36:30:341 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.undertow.v2x.define.RequestDispatcherImplInstrumentation. 
+DEBUG 2019-10-30 15:36:30:346 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.undertow.v2x.define.UndertowInstrumentation. 
+DEBUG 2019-10-30 15:36:30:353 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.vertx3.define.ClusteredEventBusSendRemoteInstrumentation. 
+DEBUG 2019-10-30 15:36:30:358 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.vertx3.define.EventBusImplDeliverToHandlerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:363 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.vertx3.define.HandlerRegistrationInstrumentation. 
+DEBUG 2019-10-30 15:36:30:367 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.vertx3.define.HttpClientRequestImplEndInstrumentation. 
+DEBUG 2019-10-30 15:36:30:370 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.vertx3.define.HttpClientRequestImplHandleExceptionInstrumentation. 
+DEBUG 2019-10-30 15:36:30:376 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.vertx3.define.HttpClientRequestImplHandleResponseInstrumentation. 
+DEBUG 2019-10-30 15:36:30:380 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.vertx3.define.HttpServerResponseImplEndInstrumentation. 
+DEBUG 2019-10-30 15:36:30:384 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.vertx3.define.HttpServerResponseImplHandleExceptionInstrumentation. 
+DEBUG 2019-10-30 15:36:30:389 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.vertx3.define.RouterImplAcceptInstrumentation. 
+DEBUG 2019-10-30 15:36:30:392 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.HttpServerOperations20xInstrumentation. 
+DEBUG 2019-10-30 15:36:30:397 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.HttpServerOperations21xInstrumentation. 
+DEBUG 2019-10-30 15:36:30:402 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.ControllerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:414 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.spring.webflux.v5.define.RestControllerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:416 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.xmemcached.v2.define.XMemcachedInstrumentation. 
+DEBUG 2019-10-30 15:36:30:420 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.asf.dubbo.patch.WrapperInstrumentation. 
+DEBUG 2019-10-30 15:36:30:422 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.dubbo.patch.WrapperInstrumentation. 
+DEBUG 2019-10-30 15:36:30:425 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.motan.define.MotanConsumerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:428 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.motan.define.MotanProviderInstrumentation. 
+DEBUG 2019-10-30 15:36:30:430 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.resteasy.v3.server.define.SynchronousDispatcherInstrumentation. 
+DEBUG 2019-10-30 15:36:30:433 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.sofarpc.SofaRpcConsumerInstrumentation. 
+DEBUG 2019-10-30 15:36:30:436 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.sofarpc.SofaRpcProviderInstrumentation. 
+DEBUG 2019-10-30 15:36:30:440 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.tomcat78x.define.TomcatInstrumentation. 
+DEBUG 2019-10-30 15:36:30:443 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.plugin.tomcat78x.define.ApplicationDispatcherInstrumentation. 
+DEBUG 2019-10-30 15:36:30:447 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.log4j.v1.x.TraceIdPatternConverterActivation. 
+DEBUG 2019-10-30 15:36:30:452 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.log4j.v2.x.Log4j2OutputAppenderActivation. 
+DEBUG 2019-10-30 15:36:30:455 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.LogbackPatternConverterActivation. 
+DEBUG 2019-10-30 15:36:30:458 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.mdc.MDCConverterActivation. 
+DEBUG 2019-10-30 15:36:30:462 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.async.AsyncAppenderBaseInstrumentation. 
+DEBUG 2019-10-30 15:36:30:465 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.async.LoggingEventInstrumentation. 
+DEBUG 2019-10-30 15:36:30:469 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.opentracing.tracer.SkywalkingTracerActivation. 
+DEBUG 2019-10-30 15:36:30:473 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.opentracing.span.SkywalkingSpanActivation. 
+DEBUG 2019-10-30 15:36:30:477 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.opentracing.continuation.SkywalkingContinuationActivation. 
+DEBUG 2019-10-30 15:36:30:483 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.ActiveSpanActivation. 
+DEBUG 2019-10-30 15:36:30:487 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.TraceAnnotationActivation. 
+DEBUG 2019-10-30 15:36:30:491 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.TraceContextActivation. 
+DEBUG 2019-10-30 15:36:30:494 main PluginBootstrap :  loading plugin class org.apache.skywalking.apm.toolkit.activation.trace.CallableOrRunnableActivation. 
+DEBUG 2019-10-30 15:36:32:485 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:true. 
+DEBUG 2019-10-30 15:36:32:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:DISCONNECT. 
+DEBUG 2019-10-30 15:36:33:062 SkywalkingAgent-1-GRPCChannelManager-0 AbstractClassEnhancePluginDefine :  prepare to enhance class ch.qos.logback.classic.spi.LoggingEvent by org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.async.LoggingEventInstrumentation. 
+INFO 2019-10-30 15:36:33:103 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-activemq-5.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:103 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-canal-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:103 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-dubbo-2.7.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:103 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-dubbo-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:104 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-elastic-job-2.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:104 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-elasticsearch-5.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:104 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-feign-default-http-9.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:105 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-grpc-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:105 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-h2-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:105 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-httpasyncclient-4.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:105 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-httpClient-4.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:106 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-hystrix-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:106 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-jdbc-commons-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:106 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-jedis-2.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:106 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-jetty-client-9.0-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:106 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-jetty-client-9.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:107 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-jetty-server-9.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:107 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-kafka-v1-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:107 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mongodb-2.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:107 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mongodb-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:108 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mysql-5.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:108 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mysql-6.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:108 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mysql-8.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:108 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-mysql-commons-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:108 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-nutz-http-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:109 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-nutz-mvc-annotation-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:109 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-okhttp-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:109 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-postgresql-8.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:109 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-rabbitmq-5.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:109 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-redisson-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:110 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-resttemplate-4.3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:110 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-rocketmq-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:110 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-rocketmq-4.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:111 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-servicecomb-java-chassis-0.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:111 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-servicecomb-java-chassis-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:111 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-sharding-jdbc-1.5.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:112 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-sharding-sphere-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:112 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-sharding-sphere-4.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:112 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-solrj-7.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:112 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-spring-async-annotation-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:113 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-spring-cloud-feign-1.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:113 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-spring-concurrent-util-4.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:113 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-spring-core-patch-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:113 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-springmvc-annotation-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:113 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-springmvc-annotation-4.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:114 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-springmvc-annotation-5.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:114 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-springmvc-annotation-commons-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:114 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-spymemcached-2.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:114 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-struts2-2.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:114 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-undertow-2.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:114 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-vertx-core-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:114 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-webflux-5.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:114 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\apm-xmemcached-2.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:114 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\dubbo-2.7.x-conflict-patch-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:114 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\dubbo-conflict-patch-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:115 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\motan-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:115 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\resteasy-server-3.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:115 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\sofa-rpc-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:115 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\spring-commons-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:115 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\plugins\tomcat-7.x-8.x-plugin-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:117 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\activations\apm-toolkit-log4j-1.x-activation-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:117 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\activations\apm-toolkit-log4j-2.x-activation-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:117 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\activations\apm-toolkit-logback-1.x-activation-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:118 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\activations\apm-toolkit-opentracing-activation-6.3.0.jar loaded. 
+INFO 2019-10-30 15:36:33:118 SkywalkingAgent-1-GRPCChannelManager-0 AgentClassLoader :  E:\workspace\hello-spring-cloud-alibaba\hello-spring-cloud-external-skywalking\agent\activations\apm-toolkit-trace-activation-6.3.0.jar loaded. 
+DEBUG 2019-10-30 15:36:33:123 SkywalkingAgent-1-GRPCChannelManager-0 AbstractClassEnhancePluginDefine :  enhance class ch.qos.logback.classic.spi.LoggingEvent by org.apache.skywalking.apm.toolkit.activation.log.logback.v1.x.async.LoggingEventInstrumentation completely. 
+DEBUG 2019-10-30 15:36:33:123 SkywalkingAgent-1-GRPCChannelManager-0 SkyWalkingAgent :  Finish the prepare stage for ch.qos.logback.classic.spi.LoggingEvent. 
+DEBUG 2019-10-30 15:36:33:326 SkywalkingAgent-1-GRPCChannelManager-0 SkyWalkingAgent :  On Transformation class ch.qos.logback.classic.spi.LoggingEvent. 
+DEBUG 2019-10-30 15:36:34:054 main AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor by org.apache.skywalking.apm.plugin.spring.patch.define.AutowiredAnnotationProcessorInstrumentation. 
+DEBUG 2019-10-30 15:36:34:057 main AbstractClassEnhancePluginDefine :  enhance class org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor by org.apache.skywalking.apm.plugin.spring.patch.define.AutowiredAnnotationProcessorInstrumentation completely. 
+DEBUG 2019-10-30 15:36:34:057 main SkyWalkingAgent :  Finish the prepare stage for org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor. 
+DEBUG 2019-10-30 15:36:34:114 main SkyWalkingAgent :  On Transformation class org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor. 
+DEBUG 2019-10-30 15:36:34:284 main AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.beans.BeanWrapperImpl by org.apache.skywalking.apm.plugin.spring.patch.define.BeanWrapperImplInstrumentation. 
+DEBUG 2019-10-30 15:36:34:287 main AbstractClassEnhancePluginDefine :  enhance class org.springframework.beans.BeanWrapperImpl by org.apache.skywalking.apm.plugin.spring.patch.define.BeanWrapperImplInstrumentation completely. 
+DEBUG 2019-10-30 15:36:34:288 main SkyWalkingAgent :  Finish the prepare stage for org.springframework.beans.BeanWrapperImpl. 
+DEBUG 2019-10-30 15:36:34:314 main SkyWalkingAgent :  On Transformation class org.springframework.beans.BeanWrapperImpl. 
+DEBUG 2019-10-30 15:36:35:417 main AbstractClassEnhancePluginDefine :  prepare to enhance class com.funtl.hello.spring.cloud.alibaba.nacos.provider.NacosProviderApplication$EchoController by org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation. 
+WARN 2019-10-30 15:36:35:418 main AbstractClassEnhancePluginDefine :  enhance class com.funtl.hello.spring.cloud.alibaba.nacos.provider.NacosProviderApplication$EchoController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.RestControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+DEBUG 2019-10-30 15:36:35:418 main AbstractClassEnhancePluginDefine :  prepare to enhance class com.funtl.hello.spring.cloud.alibaba.nacos.provider.NacosProviderApplication$EchoController by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.RestControllerInstrumentation. 
+DEBUG 2019-10-30 15:36:35:426 main AbstractClassEnhancePluginDefine :  enhance class com.funtl.hello.spring.cloud.alibaba.nacos.provider.NacosProviderApplication$EchoController by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.RestControllerInstrumentation completely. 
+DEBUG 2019-10-30 15:36:35:426 main AbstractClassEnhancePluginDefine :  prepare to enhance class com.funtl.hello.spring.cloud.alibaba.nacos.provider.NacosProviderApplication$EchoController by org.apache.skywalking.apm.plugin.spring.webflux.v5.define.RestControllerInstrumentation. 
+WARN 2019-10-30 15:36:35:426 main AbstractClassEnhancePluginDefine :  enhance class com.funtl.hello.spring.cloud.alibaba.nacos.provider.NacosProviderApplication$EchoController by plugin org.apache.skywalking.apm.plugin.spring.webflux.v5.define.RestControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.BindingContext is not existed. 
+DEBUG 2019-10-30 15:36:35:426 main SkyWalkingAgent :  Finish the prepare stage for com.funtl.hello.spring.cloud.alibaba.nacos.provider.NacosProviderApplication$EchoController. 
+DEBUG 2019-10-30 15:36:35:437 main SkyWalkingAgent :  On Transformation class com.funtl.hello.spring.cloud.alibaba.nacos.provider.NacosProviderApplication$EchoController. 
+DEBUG 2019-10-30 15:36:35:550 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:36:35:750 main AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.client.RestTemplate by org.apache.skywalking.apm.plugin.spring.resttemplate.sync.define.RestTemplateInstrumentation. 
+DEBUG 2019-10-30 15:36:35:756 main AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.client.RestTemplate by org.apache.skywalking.apm.plugin.spring.resttemplate.sync.define.RestTemplateInstrumentation completely. 
+DEBUG 2019-10-30 15:36:35:756 main SkyWalkingAgent :  Finish the prepare stage for org.springframework.web.client.RestTemplate. 
+DEBUG 2019-10-30 15:36:35:805 main SkyWalkingAgent :  On Transformation class org.springframework.web.client.RestTemplate. 
+DEBUG 2019-10-30 15:36:36:126 main AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.client.AsyncRestTemplate by org.apache.skywalking.apm.plugin.spring.resttemplate.async.define.RestTemplateInstrumentation. 
+DEBUG 2019-10-30 15:36:36:130 main AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.client.AsyncRestTemplate by org.apache.skywalking.apm.plugin.spring.resttemplate.async.define.RestTemplateInstrumentation completely. 
+DEBUG 2019-10-30 15:36:36:130 main SkyWalkingAgent :  Finish the prepare stage for org.springframework.web.client.AsyncRestTemplate. 
+DEBUG 2019-10-30 15:36:36:151 main SkyWalkingAgent :  On Transformation class org.springframework.web.client.AsyncRestTemplate. 
+DEBUG 2019-10-30 15:36:36:359 main AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation. 
+WARN 2019-10-30 15:36:36:361 main AbstractClassEnhancePluginDefine :  enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+DEBUG 2019-10-30 15:36:36:361 main AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation. 
+WARN 2019-10-30 15:36:36:361 main AbstractClassEnhancePluginDefine :  enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.ControllerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+DEBUG 2019-10-30 15:36:36:361 main AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.ControllerInstrumentation. 
+DEBUG 2019-10-30 15:36:36:361 main AbstractClassEnhancePluginDefine :  enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.ControllerInstrumentation completely. 
+DEBUG 2019-10-30 15:36:36:361 main AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by org.apache.skywalking.apm.plugin.spring.webflux.v5.define.ControllerInstrumentation. 
+WARN 2019-10-30 15:36:36:361 main AbstractClassEnhancePluginDefine :  enhance class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController by plugin org.apache.skywalking.apm.plugin.spring.webflux.v5.define.ControllerInstrumentation is not working. Because witness class org.springframework.web.reactive.BindingContext is not existed. 
+DEBUG 2019-10-30 15:36:36:361 main SkyWalkingAgent :  Finish the prepare stage for org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController. 
+DEBUG 2019-10-30 15:36:36:379 main SkyWalkingAgent :  On Transformation class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController. 
+DEBUG 2019-10-30 15:36:37:529 main AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.aop.framework.DefaultAopProxyFactory by org.apache.skywalking.apm.plugin.spring.patch.define.AopProxyFactoryInstrumentation. 
+DEBUG 2019-10-30 15:36:37:530 main AbstractClassEnhancePluginDefine :  enhance class org.springframework.aop.framework.DefaultAopProxyFactory by org.apache.skywalking.apm.plugin.spring.patch.define.AopProxyFactoryInstrumentation completely. 
+DEBUG 2019-10-30 15:36:37:530 main SkyWalkingAgent :  Finish the prepare stage for org.springframework.aop.framework.DefaultAopProxyFactory. 
+DEBUG 2019-10-30 15:36:37:536 main SkyWalkingAgent :  On Transformation class org.springframework.aop.framework.DefaultAopProxyFactory. 
+DEBUG 2019-10-30 15:36:38:208 main AbstractClassEnhancePluginDefine :  prepare to enhance class org.apache.catalina.core.StandardHostValve by org.apache.skywalking.apm.plugin.tomcat78x.define.TomcatInstrumentation. 
+DEBUG 2019-10-30 15:36:38:211 main AbstractClassEnhancePluginDefine :  enhance class org.apache.catalina.core.StandardHostValve by org.apache.skywalking.apm.plugin.tomcat78x.define.TomcatInstrumentation completely. 
+DEBUG 2019-10-30 15:36:38:211 main SkyWalkingAgent :  Finish the prepare stage for org.apache.catalina.core.StandardHostValve. 
+DEBUG 2019-10-30 15:36:38:222 main SkyWalkingAgent :  On Transformation class org.apache.catalina.core.StandardHostValve. 
+DEBUG 2019-10-30 15:36:38:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:36:40:061 localhost-startStop-1 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.method.HandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation. 
+WARN 2019-10-30 15:36:40:061 localhost-startStop-1 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+DEBUG 2019-10-30 15:36:40:061 localhost-startStop-1 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.method.HandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation. 
+WARN 2019-10-30 15:36:40:061 localhost-startStop-1 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.method.HandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.HandlerMethodInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+DEBUG 2019-10-30 15:36:40:061 localhost-startStop-1 AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.method.HandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.HandlerMethodInstrumentation. 
+DEBUG 2019-10-30 15:36:40:063 localhost-startStop-1 AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.method.HandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v5.define.HandlerMethodInstrumentation completely. 
+DEBUG 2019-10-30 15:36:40:063 localhost-startStop-1 SkyWalkingAgent :  Finish the prepare stage for org.springframework.web.method.HandlerMethod. 
+DEBUG 2019-10-30 15:36:40:069 localhost-startStop-1 SkyWalkingAgent :  On Transformation class org.springframework.web.method.HandlerMethod. 
+DEBUG 2019-10-30 15:36:40:483 main AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.method.support.InvocableHandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation. 
+WARN 2019-10-30 15:36:40:483 main AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v3.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.web.servlet.view.xslt.AbstractXsltView is not existed. 
+DEBUG 2019-10-30 15:36:40:483 main AbstractClassEnhancePluginDefine :  prepare to enhance class org.springframework.web.method.support.InvocableHandlerMethod by org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation. 
+WARN 2019-10-30 15:36:40:483 main AbstractClassEnhancePluginDefine :  enhance class org.springframework.web.method.support.InvocableHandlerMethod by plugin org.apache.skywalking.apm.plugin.spring.mvc.v4.define.InvocableHandlerInstrumentation is not working. Because witness class org.springframework.cache.interceptor.DefaultKeyGenerator is not existed. 
+DEBUG 2019-10-30 15:36:40:488 main SkyWalkingAgent :  On Transformation class org.springframework.web.method.support.InvocableHandlerMethod. 
+DEBUG 2019-10-30 15:36:41:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:36:44:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:36:47:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:36:50:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:36:53:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:36:56:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:36:59:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:02:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:37:02:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:05:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:08:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:11:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:14:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:17:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:20:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:23:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:26:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:29:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:32:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:37:32:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:35:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:38:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:41:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:44:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:47:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:50:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:53:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:56:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:37:59:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:02:474 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:38:02:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:05:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:08:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:11:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:14:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:17:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:20:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:23:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:26:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:29:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:32:474 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:38:32:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:35:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:38:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:41:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:44:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:47:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:50:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:53:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:56:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:38:59:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:02:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:39:02:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:05:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:08:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:11:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:14:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:17:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:20:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:23:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:26:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:29:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:32:474 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:39:32:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:35:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:38:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:41:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:44:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:47:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:50:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:53:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:56:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:39:59:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:02:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:40:02:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:05:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:08:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:11:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:14:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:17:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:20:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:23:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:26:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:29:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:32:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:40:32:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:35:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:38:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:41:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:44:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:47:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:50:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:53:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:56:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:40:59:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:02:474 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:41:02:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:05:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:08:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:11:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:14:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:17:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:20:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:23:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:26:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:29:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:32:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:41:32:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:35:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:38:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:41:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:44:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:47:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:50:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:53:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:56:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:41:59:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:02:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:42:02:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:05:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:08:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:11:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:14:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:17:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:20:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:23:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:26:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:29:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:32:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:42:32:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:35:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:38:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:41:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:44:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:47:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:50:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:53:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:56:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:42:59:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:02:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:43:02:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:05:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:08:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:11:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:14:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:17:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:20:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:23:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:26:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:29:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:32:474 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:43:32:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:35:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:38:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:41:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:44:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:47:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:50:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:53:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:56:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:43:59:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:02:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:44:02:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:05:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:08:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:11:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:14:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:17:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:20:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:23:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:26:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:29:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:32:474 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:44:32:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:35:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:38:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:41:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:44:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:47:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:50:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:53:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:56:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:44:59:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:02:474 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:45:02:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:05:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:08:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:11:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:14:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:17:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:20:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:23:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:26:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:29:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:32:474 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:45:32:491 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:35:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:38:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:41:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:44:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:47:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:50:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:53:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:56:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:45:59:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:02:474 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:46:02:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:05:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:08:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:11:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:14:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:17:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:20:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:23:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:26:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:29:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:32:474 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:46:32:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:35:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:38:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:41:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:44:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:47:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:50:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:53:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:56:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:46:59:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:02:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:47:02:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:05:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:08:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:11:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:14:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:17:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:20:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:23:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:26:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:29:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:32:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:47:32:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:35:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:38:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:41:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:44:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:47:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:50:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:53:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:56:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:47:59:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:02:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:48:02:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:05:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:08:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:11:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:14:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:17:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:20:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:23:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:26:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:29:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:32:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:48:32:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:35:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:38:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:41:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:44:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:47:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:50:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:53:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:56:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:48:59:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:02:474 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:49:02:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:05:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:08:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:11:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:14:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:17:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:20:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:23:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:26:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:29:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:32:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:49:32:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:35:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:38:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:41:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:44:490 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:47:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:50:489 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:53:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:56:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:49:59:487 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:50:02:473 SkywalkingAgent-1-GRPCChannelManager-0 GRPCChannelManager :  Selected collector grpc service running, reconnect:false. 
+DEBUG 2019-10-30 15:50:02:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
+DEBUG 2019-10-30 15:50:05:488 SkywalkingAgent-4-ServiceAndEndpointRegisterClient-0 ServiceAndEndpointRegisterClient :  ServiceAndEndpointRegisterClient running, status:CONNECTED. 
